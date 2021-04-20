@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.022eb82c.chunk.css",
+    "main.js": "/static/js/main.8cbfa68b.chunk.js",
+    "main.js.map": "/static/js/main.8cbfa68b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.554504a0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.554504a0.js.map",
+    "static/js/2.c6a95f53.chunk.js": "/static/js/2.c6a95f53.chunk.js",
+    "static/js/2.c6a95f53.chunk.js.map": "/static/js/2.c6a95f53.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.eeccd4ceebd5e9c43bca1f2a0cb2a32f.js": "/precache-manifest.eeccd4ceebd5e9c43bca1f2a0cb2a32f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.022eb82c.chunk.css.map": "/static/css/main.022eb82c.chunk.css.map",
+    "static/js/2.c6a95f53.chunk.js.LICENSE.txt": "/static/js/2.c6a95f53.chunk.js.LICENSE.txt",
+    "static/media/Eshan.jpg": "/static/media/Eshan.9b98d316.jpg",
+    "static/media/hashirshoaeb.png": "/static/media/hashirshoaeb.32f6b574.png",
+    "static/media/resume.pdf": "/static/media/resume.fcf0be9b.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.554504a0.js",
+    "static/js/2.c6a95f53.chunk.js",
+    "static/css/main.022eb82c.chunk.css",
+    "static/js/main.8cbfa68b.chunk.js"
+  ]
+}
